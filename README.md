@@ -1,5 +1,6 @@
 # A.I-project
-unable to upload similarity .pkl due its large size
+unable to upload similarity .pkl due its large size.
+
 Problem in fetching poster 
 Problem in line 12 , 26 , 46 in app.py
 
